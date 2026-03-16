@@ -271,6 +271,16 @@ Afficher le résultat
 
 ---
 
+# 14. Image exemples des analyses
+
+### Analyse docs 
+![Analyse docs](IMG/image.png)
+
+### GNS
+![GNS](IMG/gns.png)
+
+---
+
 # 15. Erreurs classiques (très fréquentes à l’interro)
 
 ### Mauvaise condition de boucle
@@ -304,6 +314,8 @@ tableau[i]
 ```
 
 ---
+
+
 
 # 16. Les 10 choses essentielles à retenir
 
